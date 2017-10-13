@@ -7,11 +7,11 @@ Program analyses data from Oxygen plots and reresent it in more biological way
 
 ![Raw plot](https://github.com/grenuh/MitoDancer/blob/master/img/ts0.png)
 
-![First step](https://github.com/grenuh/MitoDancer/blob/master/img/ts1.png)
+![First step](https://github.com/grenuh/MitoDancer/blob/master/img/ts2.png)
 
-![Second step](https://github.com/grenuh/MitoDancer/blob/master/img/ts2.png)
+![Second step](https://github.com/grenuh/MitoDancer/blob/master/img/ts3.png)
 
-![Third step](https://github.com/grenuh/MitoDancer/blob/master/img/ts3.png)
+![Third step](https://github.com/grenuh/MitoDancer/blob/master/img/ts4.png)
 
 Analysed data can be easily copied to MS Excel or another table processor for next works
 
